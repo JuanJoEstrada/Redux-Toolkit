@@ -1,5 +1,5 @@
 # Redux Essentials
-I took this exercise from [Redux docs](https://redux.js.org/tutorials/essentials/part-3-data-flow) to understand the powerful Redux Toolkit.
+I tooked this exercise from [Redux docs](https://redux.js.org/tutorials/essentials/part-3-data-flow) to understand the powerful Redux Toolkit.
 
 ## Available Scripts
 
